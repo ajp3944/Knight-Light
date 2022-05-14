@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class KnightMovement : MonoBehaviour
 {
-    public TestCharacterController2D controller;
+    public KnightController2D controller;
     public float moveSpeed = 40f;
     private float horizontalMove = 0f;
     private bool isJumping;
