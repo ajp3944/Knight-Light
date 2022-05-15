@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 3ce56f2354b53ba499f17189fe72c4d9
+guid: a040258734a9cc94091f6f01549782af
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -104,91 +104,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Shimmer_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 96
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9dc3cd6435e14a44d8b20a304b9dbd0b
-      internalID: 1242459907
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Shimmer_1
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 96
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 83c446a267ebd964fa7f855f72928c76
-      internalID: -1847973758
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Shimmer_2
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 64
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e6864bbc987b5b1458e032e84acc654d
-      internalID: 107763514
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Shimmer_3
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 64
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 38e58ca57b7a8ea429f575000f9d4b80
-      internalID: 225959722
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Shimmer_4
+      name: NightlyKnightWalking_0
       rect:
         serializedVersion: 2
         x: 0
@@ -202,14 +118,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7e61ee00c3116a148b975cedcc069b14
-      internalID: 1282601803
+      spriteID: eae150b5d639f2942b40c17afed7e4e2
+      internalID: -80763514
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Shimmer_5
+      name: NightlyKnightWalking_1
       rect:
         serializedVersion: 2
         x: 32
@@ -223,14 +139,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 25335d641527dba4096c6584c6f292e5
-      internalID: -81271921
+      spriteID: b47e0db55886bfb46a245d3849e27358
+      internalID: -397422336
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Shimmer_6
+      name: NightlyKnightWalking_2
       rect:
         serializedVersion: 2
         x: 0
@@ -244,8 +160,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 357cb776e4e3bd34b995e4e20c5c562f
-      internalID: -205693594
+      spriteID: 74525373307182a449bb6bb8428cd944
+      internalID: 1921560728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightlyKnightWalking_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f8b9f2a711aae4ba456c586368896b
+      internalID: 529719290
       vertices: []
       indices: 
       edges: []
@@ -261,13 +198,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Shimmer_1: -1847973758
-      Shimmer_5: -81271921
-      Shimmer_6: -205693594
-      Shimmer_2: 107763514
-      Shimmer_0: 1242459907
-      Shimmer_3: 225959722
-      Shimmer_4: 1282601803
+      NightlyKnightWalking_0: -80763514
+      NightlyKnightWalking_3: 529719290
+      NightlyKnightWalking_1: -397422336
+      NightlyKnightWalking_2: 1921560728
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 3ce56f2354b53ba499f17189fe72c4d9
+guid: a05586b4f7e991448b4eea7c9dc3528c
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -104,49 +104,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Shimmer_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 96
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9dc3cd6435e14a44d8b20a304b9dbd0b
-      internalID: 1242459907
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Shimmer_1
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 96
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 83c446a267ebd964fa7f855f72928c76
-      internalID: -1847973758
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Shimmer_2
+      name: TorchAnimation_0
       rect:
         serializedVersion: 2
         x: 0
@@ -160,14 +118,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e6864bbc987b5b1458e032e84acc654d
-      internalID: 107763514
+      spriteID: 167525623aee2c046b8529f2128bac61
+      internalID: -1993104415
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Shimmer_3
+      name: TorchAnimation_1
       rect:
         serializedVersion: 2
         x: 32
@@ -181,14 +139,35 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 38e58ca57b7a8ea429f575000f9d4b80
-      internalID: 225959722
+      spriteID: 3395f93f060a10c4aa0f9791e65fd0ed
+      internalID: 393861699
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Shimmer_4
+      name: TorchAnimation_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e56df68cea6994dbea3ea394d40305
+      internalID: -721513575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TorchAnimation_3
       rect:
         serializedVersion: 2
         x: 0
@@ -202,14 +181,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7e61ee00c3116a148b975cedcc069b14
-      internalID: 1282601803
+      spriteID: fd7d323f4b0f4974e9e22f7e79eee6c1
+      internalID: 2106305782
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Shimmer_5
+      name: TorchAnimation_4
       rect:
         serializedVersion: 2
         x: 32
@@ -223,14 +202,35 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 25335d641527dba4096c6584c6f292e5
-      internalID: -81271921
+      spriteID: e9b2a78e01b1ee44fb2ec6eb51d2079e
+      internalID: 83618232
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Shimmer_6
+      name: TorchAnimation_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ba98d6c1658b44b8c7bb5e9da4792b
+      internalID: 1199327227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TorchAnimation_6
       rect:
         serializedVersion: 2
         x: 0
@@ -244,8 +244,50 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 357cb776e4e3bd34b995e4e20c5c562f
-      internalID: -205693594
+      spriteID: c56401fed58acd748916b953445cc77d
+      internalID: -1443228635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TorchAnimation_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0bb77b47569734abd75f13e317e225
+      internalID: -2088332152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TorchAnimation_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39e30d4b2d9e0040af023ca0f98a646
+      internalID: -1006427822
       vertices: []
       indices: 
       edges: []
@@ -261,13 +303,15 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Shimmer_1: -1847973758
-      Shimmer_5: -81271921
-      Shimmer_6: -205693594
-      Shimmer_2: 107763514
-      Shimmer_0: 1242459907
-      Shimmer_3: 225959722
-      Shimmer_4: 1282601803
+      TorchAnimation_3: 2106305782
+      TorchAnimation_1: 393861699
+      TorchAnimation_5: 1199327227
+      TorchAnimation_2: -721513575
+      TorchAnimation_0: -1993104415
+      TorchAnimation_8: -1006427822
+      TorchAnimation_4: 83618232
+      TorchAnimation_6: -1443228635
+      TorchAnimation_7: -2088332152
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

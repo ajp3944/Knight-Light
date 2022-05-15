@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 3ce56f2354b53ba499f17189fe72c4d9
+guid: 180cbf46c2eeaa4458098bd5c358e245
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -104,91 +104,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Shimmer_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 96
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9dc3cd6435e14a44d8b20a304b9dbd0b
-      internalID: 1242459907
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Shimmer_1
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 96
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 83c446a267ebd964fa7f855f72928c76
-      internalID: -1847973758
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Shimmer_2
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 64
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e6864bbc987b5b1458e032e84acc654d
-      internalID: 107763514
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Shimmer_3
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 64
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 38e58ca57b7a8ea429f575000f9d4b80
-      internalID: 225959722
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Shimmer_4
+      name: MonsterDarkAngry_0
       rect:
         serializedVersion: 2
         x: 0
@@ -202,14 +118,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7e61ee00c3116a148b975cedcc069b14
-      internalID: 1282601803
+      spriteID: eaf3a75ffdd2dfa4692793a41f9a5239
+      internalID: 505316470
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Shimmer_5
+      name: MonsterDarkAngry_1
       rect:
         serializedVersion: 2
         x: 32
@@ -223,14 +139,56 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 25335d641527dba4096c6584c6f292e5
-      internalID: -81271921
+      spriteID: b2374e0fb99a28e43a99c229bf5545c7
+      internalID: -299869664
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Shimmer_6
+      name: MonsterDarkAngry_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e185bafea0f5e044a91b5e03133e9c6
+      internalID: 1306028217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterDarkAngry_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79dea262bd6fdf458f53791cbcbf0f5
+      internalID: -258600994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterDarkAngry_4
       rect:
         serializedVersion: 2
         x: 0
@@ -244,8 +202,71 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 357cb776e4e3bd34b995e4e20c5c562f
-      internalID: -205693594
+      spriteID: 16b38b21e2064514abaa2773ec58a510
+      internalID: 1479991287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterDarkAngry_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f71f5bb4a78bc46ad9bd16bed63ba7
+      internalID: -1445023082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterDarkAngry_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5cc12d523d11345acbd82a6c0f0e67
+      internalID: -939676198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterDarkAngry_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1464ca1203dcc274f96048c2498fd06b
+      internalID: -656722790
       vertices: []
       indices: 
       edges: []
@@ -261,13 +282,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Shimmer_1: -1847973758
-      Shimmer_5: -81271921
-      Shimmer_6: -205693594
-      Shimmer_2: 107763514
-      Shimmer_0: 1242459907
-      Shimmer_3: 225959722
-      Shimmer_4: 1282601803
+      MonsterDarkAngry_3: -258600994
+      MonsterDarkAngry_2: 1306028217
+      MonsterDarkAngry_6: -939676198
+      MonsterDarkAngry_4: 1479991287
+      MonsterDarkAngry_5: -1445023082
+      MonsterDarkAngry_7: -656722790
+      MonsterDarkAngry_0: 505316470
+      MonsterDarkAngry_1: -299869664
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
