@@ -5,6 +5,7 @@ using UnityEngine;
 public class KnightMovement : MonoBehaviour
 {
     public KnightController2D controller;
+    public Animator animator;
     public float moveSpeed = 40f;
     private float horizontalMove = 0f;
     private bool isJumping;
@@ -13,6 +14,9 @@ public class KnightMovement : MonoBehaviour
     void Update()
     {
         horizontalMove = Input.GetAxisRaw("Horizontal") * moveSpeed;
+        
+        animator.SetFloat("Speed", Mathf.Abs(horizontalMove));
+
         if(Input.GetButtonDown("Jump"))
         {
             isJumping = true;
