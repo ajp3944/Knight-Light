@@ -170,6 +170,7 @@ MonoBehaviour:
   nameText: {fileID: 637216192}
   dialogueText: {fileID: 1521997671}
   animator: {fileID: 990512302}
+  isDone: 0
 --- !u!1 &425185037
 GameObject:
   m_ObjectHideFlags: 0
@@ -1189,16 +1190,59 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc242a2dbcea71649b1a1d171f2a82d2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  dialogue:
+  dialogue1:
     name: Narrator
     sentences:
     - "There was a folk tale\u2026."
     - That every 1000 years, the sun would burn out
-    - When the sun burned out the creatures of pure darkness threatened human civilizations.
+    - When the sun burned out the creatures of pure darkness threatened human civilizations
     - "To bring back the light, one brave hero decided to go out and find the 4 sol
       temples to light their beacons to return the sun's strength for another 1000
       years\u2026"
     - "Today\u2026."
+  dialogue2:
+    name: MC
+    sentences:
+    - "Today was a normal day, as a knight I was training in the courtyard. Until
+      it happens\u2026."
+    - "The sun burned out, for some time there was nothing visible everything was
+      pure darkness\u2026.."
+    - It was only a few seconds before I started hearing screams of citizens from
+      creatures from the unknown
+    - "It wasn\u2019t long until the town\u2019s emergency lights were turned on
+      and forced the creatures out of the town."
+  dialogue3:
+    name: King (Radio)
+    sentences:
+    - "It the time again\u2026 the sun has gone out"
+    - All knights report to the king's throne now
+  dialogue4:
+    name: King
+    sentences:
+    - "We had prepared for this, we need all knights to stay and defend the town
+      and make sure the darkness doesn\u2019t come close to the kingdom.\r\n"
+    - Knight MC you have been chosen to make the adventure to the 4 temples of sol
+  dialogue5:
+    name: MC
+    sentences:
+    - WHat??!?!?!?
+  dialogue6:
+    name: King
+    sentences:
+    - No one else has the skills that you have, now go to the south temple and light
+      that beacon
+  dialogue7:
+    name: MC
+    sentences:
+    - Just like that, they push me out of the town with a torch in hand and map
+  dialogue8:
+    name: MC
+    sentences:
+    - So that is how the adventure begins
+  dialogue9:
+    name: Narrator
+    sentences:
+    - So start chapter 1....
 --- !u!4 &2100388531
 Transform:
   m_ObjectHideFlags: 0
