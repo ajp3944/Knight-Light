@@ -16,7 +16,7 @@ public class DialogueTrigger : MonoBehaviour
     private Dialogue[] story;
 
     private bool isFirst = true;
-    private int currentDialogue = 0;
+    public int currentDialogue = 0;
 
     void Start()
     {
