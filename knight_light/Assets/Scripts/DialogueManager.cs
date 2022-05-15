@@ -12,6 +12,7 @@ public class DialogueManager : MonoBehaviour
     public TMP_Text nameText;
     public TMP_Text dialogueText;
     public Animator animator;
+    public bool isDone;
 
     // Start is called before the first frame update
     void Start()
@@ -22,8 +23,10 @@ public class DialogueManager : MonoBehaviour
     public void StartDialogue(Dialogue dialogue)
     {
         animator.SetBool("IsOpen", true);
+        isDone = false;
         nameText.text = dialogue.name;
         sentences.Clear();
+        Debug.Log("QUEUE");
 
         foreach(string sentence in dialogue.sentences)
         {
@@ -35,10 +38,9 @@ public class DialogueManager : MonoBehaviour
 
     public void DisplayNextSentence()
     {
-        if(sentences.Count == 0)
+        if(sentences.Count == 1)
         {
-            EndDialogue();
-            return;
+            isDone = true;
         }
         string sentence = sentences.Dequeue();
         StopAllCoroutines();
@@ -55,7 +57,7 @@ public class DialogueManager : MonoBehaviour
         }
     }
 
-    void EndDialogue()
+    public void EndDialogue()
     {
         Debug.Log("The End");
         animator.SetBool("IsOpen", false);
