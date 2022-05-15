@@ -1475,10 +1475,6 @@ MonoBehaviour:
   - {x: 0.5, y: 0.5, z: 0}
   - {x: 0.5, y: -0.5, z: 0}
   m_ShapePathHash: 0
-<<<<<<< HEAD
-  m_Mesh: {fileID: 693286409}
-  m_InstanceId: 102870
-=======
   m_Mesh: {fileID: 1940413788}
   m_InstanceId: 64272
 --- !u!1 &486579665
@@ -1565,7 +1561,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
->>>>>>> f242114742910bd34546c02285c2a9787d4c4fea
 --- !u!1 &499695795
 GameObject:
   m_ObjectHideFlags: 0
@@ -2824,11 +2819,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-<<<<<<< HEAD
-  m_RootOrder: 14
-=======
   m_RootOrder: 16
->>>>>>> f242114742910bd34546c02285c2a9787d4c4fea
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &811910124
 GameObject:
@@ -7634,11 +7625,7 @@ Transform:
   m_Children:
   - {fileID: 486579666}
   m_Father: {fileID: 0}
-<<<<<<< HEAD
-  m_RootOrder: 54
-=======
   m_RootOrder: 3
->>>>>>> f242114742910bd34546c02285c2a9787d4c4fea
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2044837500
 GameObject:
